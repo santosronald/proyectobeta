@@ -1,0 +1,15 @@
+*{margin:0; padding: 0;}
+body{width: 960px; margin: 0 auto; background: #EFF3FF;}
+header{background: gray; padding: 20px;}
+nav{background: black;}
+li{
+    line-height: 40px;
+    list-style: none;
+    display: inline-block;
+    height:40px;
+    padding:10px;
+    }
+li:hover{background: #9225d5}
+a{padding: 10px;color:white;text-decoration: none}
+section{height: 400px;}
+footer{background: #4c24A9; color:white; padding: 10px;}
